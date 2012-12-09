@@ -1,4 +1,4 @@
 slideMaker
 ==========
 
-<a href="http://imaginelayouts.com" title="presentation templates">imaginelayouts.com</a> - slidemaker</span>
+<a href="http://imaginelayout.com" title="presentation templates">imaginelayout.com</a> - slidemaker</span>
